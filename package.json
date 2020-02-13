@@ -1,0 +1,15 @@
+{
+  "name": "inter-kontakt-site",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "gridsome": "^0.7.0",
+    "vue-fixed-header": "^3.2.14",
+    "vuejs-scroll-fixed-header": "^1.0.2"
+  }
+}
