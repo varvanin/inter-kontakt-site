@@ -7,9 +7,14 @@ body {
   background-attachment: fixed;
   min-height: 100vh;
   font-family: montserrat, sans-serif;
+  color: #475C69;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
+}
+
+a {
+    color:#475C69;
 }
 
 h4 {

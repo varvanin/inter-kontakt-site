@@ -16,7 +16,7 @@
             </div>
             <div class="column">
               <div class="ip-title">
-                <h3>Introduce about<br /> Kons</h3>
+                <h3>IKPH Inter-Kontakt<br /> Projekt & Handel GmbH</h3>
               </div>
               <h4>Founded in Lebanon in 1967, Kons Construction Company (KCC) has grown to become
                 one of the Middle East's leading construction contractors.</h4>
@@ -92,6 +92,6 @@
     left: 0;
     width: 3px;
     height: 100%;
-    background-color: #ffa800
+    background-color: #009EE0;
   }
 </style>

@@ -57,11 +57,12 @@
   }
 
   nav ul li a {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 600;
+    text-transform: uppercase;
   }
 
   nav ul li a.active {
-    color: #ffa800;
+    color: #009EE0;
   }
 </style>
