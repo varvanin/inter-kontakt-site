@@ -1,20 +1,21 @@
 @import "https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700%7CMontserrat:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CPlayfair+Display:400,400i,700,700i,900,900i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i%7CWork+Sans:300,400,500,600,700,800";
 
 body {
+  background-color: #eee;
   background-image: url(../assets/img/body_bg.png);
   background-position: right;
   background-repeat: no-repeat;
   background-attachment: fixed;
   min-height: 100vh;
   font-family: montserrat, sans-serif;
-  color: #475C69;
+  color: #475c69;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
 }
 
 a {
-    color:#475C69;
+  color: #475c69;
 }
 
 h4 {
@@ -28,4 +29,10 @@ p {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 25px;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    background-position: left;
+  }
 }

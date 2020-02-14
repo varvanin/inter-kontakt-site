@@ -14,12 +14,12 @@ export default {};
 <style>
 .footer {
   margin: 0;
-  background: #7090A5;
+  background: #7090a5;
   height: 60px;
   padding: 15px;
 }
 
-.footer span {
+span {
   font-size: 1em;
   color: #fff;
 }
@@ -27,5 +27,13 @@ export default {};
 .footer-logo {
   float: right;
   padding-top: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  span {
+    font-size: .7em;
+    color: #fff;
+    margin: 0;
+  }
 }
 </style>
