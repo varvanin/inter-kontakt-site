@@ -68,14 +68,11 @@ export default {
 
 .navbar-burger {
   background:  #475c69;
-  padding: 20px 0;
+  margin: 26px 0 0 135px;
     
 }
 .navbar-burger:hover {
   background:#009EE0;
-;
-  padding: 20px 0;
-    
 }
 
 

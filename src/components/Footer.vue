@@ -2,7 +2,7 @@
   <div class="footer">
     <div class="container">
       <span
-        class="footer">Copyright © {{ new Date().getFullYear() }} IKPH Inter-Kontakt Projekt und Handel GmbH</span>
+        class="footer">© {{ new Date().getFullYear() }} IKPH Inter-Kontakt Projekt und Handel GmbH</span>
     </div>
   </div>
 </template>
