@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "bulma": "^0.8.0",
-    "gridsome": "^0.7.0",
+    "gridsome": "^0.7.13",
     "vue-fixed-header": "^3.2.14",
     "vuejs-scroll-fixed-header": "^1.0.2"
   }

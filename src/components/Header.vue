@@ -25,8 +25,10 @@
           <div class="navbar-end">
             <g-link to="/">Startseite</g-link>
             <g-link to="/about/">Über uns</g-link>
-            <g-link to="/works/">Arbeiten</g-link>
-            <g-link to="/contact/">Kontakt</g-link>
+            <g-link to="/about/">Referenzen</g-link>
+            <g-link to="/about/">Angebot</g-link>
+            <g-link to="/works/">Preise</g-link>
+            <g-link to="/contact/">Impressum</g-link>
           </div>
         </div>
       </nav>
