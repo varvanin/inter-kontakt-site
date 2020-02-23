@@ -2,7 +2,7 @@
   <section class="hero">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title">Perfektion ist immer Bauarbeiten im Gange</h1>
+        <h1 class="title">Perfektion ist, wenn immer Bauarbeiten im Gange</h1>
       </div>
     </div>
   </section>
